@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/SDL2_Template/SDL2_Template.sln
+/SDL2_Template/Files/SDL2_Template.vcxproj.filters
+/SDL2_Template/Files/SDL2_Template.vcxproj
